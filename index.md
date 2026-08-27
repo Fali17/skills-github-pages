@@ -1,5 +1,3 @@
 ---
-title: 1Ahlu-Sunnah Al Islam
-
-
+title: Ahlu-Sunnah Al Islam
 ---
